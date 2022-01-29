@@ -1,3 +1,7 @@
+# socket
+
+> 浙江大学计算机网络lab6
+
 gcc client.c -o client -pthread
 gcc server.c -o server -pthread
 
