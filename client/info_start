@@ -1,0 +1,13 @@
++-------+-----------------------------+
+| Input +           Funciton          |
++-------+-----------------------------+
+|  :c   |  Connect to a server.       |
+|  :d   |  Disconnect from the server.|
+|  :t   |  Get the current time.      |
+|  :n   |  Get your hostname.         |
+|  :l   |  List all the clients.      |
+|  :s   |  Send msg to other client.  |
+|  :q   |  Quit.                      |
+|  :h   |  Show this help information.|
++-------+-----------------------------+
+e.g. Input ":h" will show this help information.
