@@ -20,7 +20,7 @@ struct Client
     char logInIdStr[16];         //标识符
 } user[BACKLOG];
 
-int usersNum = 0; //全局变量，表示目前连接到服务器的客户端的数量
+int usersNum = 0;   //全局变量，表示目前连接到服务器的客户端的数量
 
 char nickname[20];            //昵称
 struct sockaddr_in dest_addr; /*目标地址信息*/
